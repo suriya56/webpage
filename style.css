@@ -1,0 +1,40 @@
+
+body{
+    background-color: goldenrod;
+}
+.out{
+    background-color: white;
+    margin: 100px;
+    height:90% ;
+    width: 85%;
+    display: block;
+    border: 10px black inset;
+    
+    
+}
+
+.img{
+    
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 35%;
+    margin-top: 10px;
+
+
+   
+}
+h1{
+    text-align: left;
+    padding-left: 50px;
+   
+}
+
+.p{
+    padding-right:800px ;
+    padding-left: 50px;
+    padding-top: 30px ;
+    word-spacing: 10;
+    font-size: larger
+
+}
